@@ -29,5 +29,6 @@ This is a classic Tic-Tac-Toe game that I developed, showcasing my skills in log
 ## 👤 About Me
 I am Chitikeshi Mahesh, a student at SR University with a passion for technology, AI-ML, and software development. I have completed internships, participated in hackathons, and continually work on enhancing my skills.
 
-## 📫 How to reach me:  [chitikeshimahesh6@gmail.com](mailto:chitikeshimahesh6@gmail.com) | [LinkedIn](https://www.linkedin.com/in/mahesh-chitikeshi-b7a0982b9/):
+## 📫 How to reach me 
+[chitikeshimahesh6@gmail.com](mailto:chitikeshimahesh6@gmail.com) | [LinkedIn](https://www.linkedin.com/in/mahesh-chitikeshi-b7a0982b9/):
 
