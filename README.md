@@ -1,7 +1,7 @@
 Mahesh's Portfolio Website
 Welcome to my personal portfolio website! This project showcases my skills, experiences, and projects that I've worked on throughout my journey as a student 
-** SR University.
-** 2nd year 
+## SR University.
+## 2nd year 
 ## 🌐 Website Link
 You can view the portfolio at: [portfolio](https://mahesh06.me/portfolio/)
 
