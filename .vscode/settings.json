@@ -1,0 +1,51 @@
+{
+  "css.validate": false,
+  "less.validate": false,
+  "scss.validate": false,
+  "tailwindCSS.includeLanguages": {
+    "html": "html",
+    "javascript": "javascript",
+    "typescript": "typescript",
+    "javascriptreact": "javascript",
+    "typescriptreact": "typescript",
+    "css": "css"
+  },
+  "tailwindCSS.experimental.classRegex": [
+    "tw`([^`]*)",
+    ["tw.style\\(([^)]*)\\)", "'([^']*)'"],
+    ["tw\\(([^)]*)\\)", "'([^']*)'"]
+  ],
+  "files.associations": {
+    "*.css": "css",
+    "index.css": "css",
+    "tailwind.config.js": "javascript",
+    "postcss.config.js": "javascript"
+  },
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact",
+    "typescript": "typescriptreact"
+  },
+  "editor.quickSuggestions": {
+    "strings": true
+  },
+  "css.customData": [".vscode/css_custom_data.json"],
+  "[css]": {
+    "editor.defaultFormatter": "vscode.css-language-features",
+    "editor.suggest.insertMode": "replace",
+    "editor.tabSize": 2,
+    "editor.insertSpaces": true
+  },
+  "editor.tokenColorCustomizations": {
+    "textMateRules": [
+      {
+        "scope": "source.css",
+        "settings": {
+          "foreground": "#569cd6"
+        }
+      }
+    ]
+  },
+  "workbench.editorAssociations": {
+    "*.css": "default"
+  }
+}
